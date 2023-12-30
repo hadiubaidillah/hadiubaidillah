@@ -24,7 +24,7 @@ I have knowledge of the Web in both Backend and Frontend, Mobile Application wit
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </div>
 
----
+ ---
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/hadiubaidillah/) 
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80">](mailto:hadiubaidillahx@gmail.com) 
