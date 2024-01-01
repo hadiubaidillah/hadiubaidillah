@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadiubaidillah" alt="hadiubaidillah" /></a> </p>
 
-- 🔭 I’m currently working on **NCNP Project** at PT Pertamina Hulu Energi
+- 🔭 I’m currently working on **PT Mitra Integrasi Informatika**
 
 - 🌱 I’m currently learning **Microservices Architecture** 
 
