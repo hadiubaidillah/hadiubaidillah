@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiubaidillah&label=Profile%20views&color=0e75b6&style=flat" alt="hadiubaidillah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadiubaidillah" alt="hadiubaidillah" /></a> </p>
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=hadiubaidillah&theme=light)](https://hadiubaidillah.com)
 
 - 🔭 I’m currently working on **PT Mitra Integrasi Informatika**
 
 - 🌱 I’m currently learning **Microservices Architecture** 
 
-- 💬 Ask me about **Spring Boot, React**
+- 💬 Ask me about **Java, Spring Boot, Angular, React**
 
 - 📫 How to reach me **hadiubaidillahx@gmail.com**
 - ⚡ Fun fact **I think I am Humble 🙂**
@@ -34,8 +34,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+ <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -80,12 +80,12 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
- <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+ <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
+ <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadiubaidillah&show_icons=true&locale=en&layout=compact" alt="hadiubaidillah" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadiubaidillah&show_icons=true&locale=en&layout=compact" alt="hadiubaidillah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiubaidillah&show_icons=true&locale=en" alt="hadiubaidillah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadiubaidillah&show_icons=true&locale=en" alt="hadiubaidillah" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadiubaidillah&" alt="hadiubaidillah" /></p>
