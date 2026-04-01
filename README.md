@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiubaidillah&label=Profile%20views&color=0e75b6&style=flat" alt="hadiubaidillah" /> </p>
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=hadiubaidillah&theme=light)](https://hadiubaidillah.com)
+<!-- [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=hadiubaidillah&theme=light)](https://hadiubaidillah.com) -->
 
 - 🔭 I’m currently working on **PT Mitra Integrasi Informatika**
 
